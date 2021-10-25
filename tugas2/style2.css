@@ -1,0 +1,61 @@
+.image{
+    background-image: url(img/backgound-left.png);
+}
+
+.space{
+    margin-top: 250px;
+    margin-bottom: 285px;
+    margin-left: 10px;
+}
+
+.space2{
+    margin-left: 100px;
+    padding-right: 468px;
+
+}
+
+.space3{
+    margin-top: 15px;
+}
+
+.space4{
+    margin-left: 100px;
+    padding-right: 500px;
+}
+
+.space-button{
+    margin-left: 100px;
+    margin-top: 20px;
+    border-top-left-radius: ;
+    background-color: orange;
+}
+
+.text {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    padding-top: 40px;
+    padding-left: 100px;
+    text-decoration: none;
+    color: rgb(25, 52, 94, 1);
+    
+}
+
+
+.text2{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    padding-left: 100px;
+    text-decoration: none;
+    color: rgb(25, 52, 94, 1);
+}
+
+.text3{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+}
