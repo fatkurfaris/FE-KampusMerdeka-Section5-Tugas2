@@ -50,7 +50,7 @@
 .button-get-in-touch{
     padding-left: 20px;
     padding-right: 20px;
-    padding-bottom: 5px;
+    padding-bottom: 10px;
     padding-top: 5px;
     font-family: 'Roboto', sans-serif;
     font-style: normal;
@@ -86,14 +86,13 @@
     margin-bottom: 157px;
     margin-left: 20px;
     margin-top: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
     background: rgba(244, 117, 34, 1);
     border-radius: 20px;
+    border-color: rgba(244, 117, 34, 1);
 }
 
-.space6{
-    margin-left: ;
-    margin-right: ;
-}
 
 a:link{ 
     color: rgb(25, 52, 94, 1);
@@ -109,15 +108,6 @@ a:hover{
     color: black;
 }
 
-
-/* .image{
-    background-image: url("img/bg-img3.png");
-    width: 100%;
-    height: 100%;
-    image-resolution: 100%;
-    
-
-} */
 
 body {
     background-image: url("img/bg-img.png");
