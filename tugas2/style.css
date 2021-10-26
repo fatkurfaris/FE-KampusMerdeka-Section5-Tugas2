@@ -105,13 +105,30 @@ a:hover{
     
 }
 
+.col-7 .space5-button a:hover  {
+    color: black;
+}
 
 
-.image{
-    background-image: url(img/bg-img3.png);
-    /* width: 50%;
-    height: 50%; */
+/* .image{
+    background-image: url("img/bg-img3.png");
+    width: 100%;
+    height: 100%;
+    image-resolution: 100%;
+    
 
+} */
+
+body {
+    background-image: url("img/bg-img.png");
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Roboto', sans-serif;
+}
+
+.image3{
+    position: absolute;
+    z-index: -1;
 }
 
 .image2{

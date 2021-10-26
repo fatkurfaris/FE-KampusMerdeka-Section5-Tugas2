@@ -1,32 +1,29 @@
-.image{
-    background-image: url(img/backgound-left.png);
-}
 
 .space{
-    margin-top: 250px;
+    margin-top: 350px;
     margin-bottom: 285px;
-    margin-left: 10px;
+    margin-left: 120px;
 }
 
 .space2{
-    margin-left: 100px;
-    padding-right: 468px;
+    margin-left: 10px;
+    padding-right: 450px;
 
 }
 
 .space3{
-    margin-top: 15px;
+    margin-top: 20px;
 }
 
 .space4{
-    margin-left: 100px;
-    padding-right: 500px;
+    margin-left: 10px;
+    padding-right: 545px;
 }
 
 .space-button{
-    margin-left: 100px;
+    margin-left: 10px;
     margin-top: 20px;
-    border-top-left-radius: ;
+    border-radius: 20px;
     background-color: orange;
 }
 
@@ -35,8 +32,8 @@
     font-style: normal;
     font-weight: 400;
     font-size: 28px;
-    padding-top: 40px;
-    padding-left: 100px;
+    padding-top: 80px;
+    padding-left: 10px;
     text-decoration: none;
     color: rgb(25, 52, 94, 1);
     
@@ -48,7 +45,7 @@
     font-style: normal;
     font-weight: 400;
     font-size: 20px;
-    padding-left: 100px;
+    padding-left: 10px;
     text-decoration: none;
     color: rgb(25, 52, 94, 1);
 }
@@ -58,4 +55,21 @@
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
     font-size: 16px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 13px;
+    padding-right: 13px;
 }
+
+.cover {
+    background-color: #19345EA6;
+    height: 850px;
+    width: 600px;
+}
+
+.logo {
+    background-color: #19345EA6;
+    height: 850px;
+    width: 600px;
+}
+
